@@ -38,6 +38,7 @@ dependencies:
   freezed_annotation: ^2.4.1
   get_storage: ^2.1.1
   google_fonts: ^6.1.0
+  kartal: ^3.4.1
   percent_indicator: ^4.2.3
   timeago: ^3.5.0
   uuid: ^4.1.0
