@@ -1,0 +1,153 @@
+{
+    "splash": { "appName": "Avare" },
+    "onboard": { 
+        "skip": "Atlamak",
+        "stepOneTitle":"Çiftlik sürüşü",
+        "stepOneContent":"Çiftliğinizi daha iyi hasat inşa etmek için her türlü ekipman var",
+        "stepTwoTitle":"Bitki büyüyen",
+        "stepTwoContent":"Tarımın bir parçası olun ve ekibinize elinizden gelenin en iyisini yapmak için ihtiyacınız olan gücü verir",
+        "stepThreeTitle":"Hızlı hasat",
+        "stepThreeContent":"Tarımın bir parçası olmaktan gurur duyacaksınız ve bu hasat"
+    },
+    "login": {
+        "loginWelcomeBack": "Tekrar hoşgeldiniz 👋",
+        "loginWelcomeDetail": "Seni tekrar gördüğüme sevindim.Giriş yaparak kaldığınız yerde devam edebilirsiniz",
+        "login": "giriş yapmak",
+        "signIn": "kayıt olmak",
+        "loginSuccessful": "giriş yapmak başarılı",
+        "loginMail": "Mail",
+        "logininvaledMail": "Geçersiz e-mail adresi.",
+        "loginPassword": "Şifre",
+        "loginPlsPassword": "Lütfen girmek şifre.",
+        "loginPlsChrPassword": "Lütfen 7 karakterden fazla girin.",
+        "loginPlsSpChrPassword": "Özel karakterler kullanamazsınız.",
+        "continueToApp": "Uygulamaya devam et",
+        "newTo": "New to  ",
+        "TitUp": "Think It Up ?  "
+    },
+    "register": {
+        "hello": "Merhaba",
+        "register": "kayıt olmak",
+        "userName": "Kullanıcı adı",
+        "singUp": "üye Ol",
+        "RegistrationSuccessful": "Kayıt başarılı.",
+        "NYCEnjoy": "Şimdi düşünebilirsin!",
+        "enterPasswordAgain": "Lütfen Parolayı Tekrar Girin.",
+        "correctEmail": "Enter correct e-mail.",
+        "plsEnterEmail": "Lütfen e-posta giriniz.",
+        "plsEntrUserName": "Lütfen kullanıcı adı girin.",
+        "doNotSpCharacter": "Özel karakterler kullanmayın.",
+        "plsentEnMoreSevenChr": "Please enter more than 7 characters.",
+        "PlsSpChrPassword": "You can't use special characters.",
+        "Mail": "Mail",
+        "registerPlsPassword": "Please enter password."
+    },
+    "welcome": {
+        "hi":"Hoşgeldin",
+        "sanayi":"sanayi",
+        "beauty":"beauty",
+        "avare":"avare",
+        "startup":"girişim",
+        "business":"işletme",
+        "work":"iş"
+         },
+    "home": {
+        "homeHi": "Merhaba, oktay",
+        "homeMessage": "Hoşgeldiniz Avare",
+        "homeBrowse": "Araştır",
+        "homeViewTitle": "Ana sayfa",
+        "homeComments": "Herkese merhaba bu ana sayfa",
+        "homeTitle": "Sizin için önerilen",
+        "homeSeeAll": "Tümünü gör",
+        "homeSearchHint": "Aramak",
+        "addItemTitle": "Yeni öğe ekle",
+        "TopCategories": "En iyi kategoriler"
+    },
+    "components": {
+        "dropdownHint": "Eşyaları seç",
+        "dropdownTitle": "Başlık",
+        "buttonSave": "Kaydet"
+    },
+    "calendar": {
+        "bookingTitle": "Rezervasyon Takvimi",
+        "available": "Müsait",
+        "selected": "Seçilmiş",
+        "booked": "Rezerve edilmiş",
+        "lunch": "Öğle yemeği",
+        "allBooked": "Üzgünüm, tümgün rezerve edilmiş,",
+        "FetchingData": "Veri işleniyor..."
+    },
+    "market": {
+        "title":"Market Detail",
+        "tab1":"GENEL BAKIŞ",
+        "tab2":"FİYATLAR",
+        "tab3":"İNCELEMELER",
+        "tab4":"HAKKINDA",
+        "about":"Hakkında",
+        "joinedDate":"Joined Date",
+        "webSite":"Web Site",
+        "socialMedia":"Instagram",
+        "rating": "Subscribers",
+        "bookButton":"Book Now",
+        "rating1": "Popüler",
+        "rating2": "Yıl",
+        "rating3": "Ziyaretçi"
+    },
+    "notifications": {
+        "notifications":"Bildirimler",
+        "upComing":"Up Coming",
+        "past":"Geçmiş"
+    },
+    "profil": {
+        "profil":"profil",
+        "cars":"Varlıklarım",
+        "recommend":"Recommend to friend",
+        "personal":"Personal info",
+        "name":"isim",
+        "dob":"Doğum günü",
+        "gender":"Cinsiyet",
+        "phone":"Telefon",
+        "mail":"E-mail"  
+    },
+    "Setting": {
+        "settings":"Ayarlar",
+        "account":"Hesap",
+        "changePassword":"ŞifreDeğiştir",
+        "contentsettings":"Content settings",
+        "Social":"Social",
+        "Language":"Dil Ayarları",
+        "Locasyon":"Konumlarım",
+        "Privacysecurity":"Gizlilik ve güvenlik",
+        "Notifications":"Bildirimler",
+        "newForYou":"New for you",
+        "accountactivity":"Account activity",
+        "opportunity":"Opportunity",  
+        "signOut":"Çıkış Yap",
+        "Close":"Kapat"
+    },
+    "root": {
+        "Home":"ev",
+        "Search":"ara",
+        "Notifications":"bildirim",
+        "profil":"Hesap"
+    },
+    "searc": {
+        "FindMarket":"Marketleri Bul",
+        "searchingArea":"searching area"
+    },
+    "booking": {
+        "appointment":"Randevu",
+        "appointmentButton":"Hemen Randevu Al",
+        "appointmentTitle":"Randevu Başlığı",
+        "notes":"Eklemek istedikleriniz",
+        "add":"Ekle"
+    },
+    "marketCategories": {
+        "service":"Servis",
+        "care":"Bakım",
+        "repairs":"Tamir",
+        "help":"Yardım",
+        "expertise":"Expertiz",
+        "cleaning":"Temizlik"
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "splash": { "appName": "Avare" },
+    "onboard": { 
+        "skip": "Skip",
+        "stepOneTitle":"Farm Driving",
+        "stepOneContent":"There are all kinds of equipment to build your farm better harvest",
+        "stepTwoTitle":"Plant Growing",
+        "stepTwoContent":"Be part of the agriculture and gives your team the  power you need to do your best",
+        "stepThreeTitle":"Fast Harvesting",
+        "stepThreeContent":"Your will be proud to be part of agriculture and it’s harvest"
+    },
+    "login": {
+        "loginWelcomeBack": "Welcome Back 👋",
+        "loginWelcomeDetail": "I am happy to see you again. You can continue where you left off by logging in",
+        "login": "login",
+        "signIn": "sign in",
+        "loginSuccessful": "login successful",
+        "loginMail": "Mail",
+        "logininvaledMail": "Invalid e-mail adress.",
+        "loginPassword": "password",
+        "loginPlsPassword": "Please enter password.",
+        "loginPlsChrPassword": "Please enter more than 7 characters.",
+        "loginPlsSpChrPassword": "You can't use special characters.",
+        "continueToApp": "Continue to app",
+        "newTo": "New to  ",
+        "TitUp": "Think It Up ?  "
+    },
+    "register": {
+        "hello": "Hello",
+        "register": "Register",
+        "userName": "User Name",
+        "singUp": "Sign Up",
+        "RegistrationSuccessful": "Registration is successful.",
+        "NYCEnjoy": "Now you can enjoy Think It Up app!",
+        "enterPasswordAgain": "Please enter password again.",
+        "correctEmail": "Enter correct e-mail.",
+        "plsEnterEmail": "Please enter e-mail.",
+        "plsEntrUserName": "Please enter username.",
+        "doNotSpCharacter": "Don't use special characters.",
+        "plsentEnMoreSevenChr": "Please enter more than 7 characters.",
+        "PlsSpChrPassword": "You can't use special characters.",
+        "Mail": "Mail",
+        "registerPlsPassword": "Please enter password."
+    },
+    "welcome": {
+        "hi":"Hi",
+        "sanayi":"sanayi",
+        "beauty":"beauty",
+        "avare":"avare",
+        "startup":"girişim",
+        "business":"business",
+        "work":"work"
+         },
+    "home": {
+        "homeHi": "Hi, oktay",
+        "homeMessage": "Welcome to Avare",
+        "homeBrowse": "Browse",
+        "homeViewTitle": "Home View",
+        "homeComments": "hello every body this is home page",
+        "homeTitle": "Recommended for you",
+        "homeSeeAll": "See all",
+        "homeSearchHint": "Search",
+        "addItemTitle": "Add new item",
+        "TopCategories": "Top Categories"
+    },
+    "components": {
+        "dropdownHint": "Select Items",
+        "dropdownTitle": "Title",
+        "buttonSave": "Save"
+    },
+    "calendar": {
+        "bookingTitle": "Booking Calendar",
+        "available": "Available",
+        "selected": "Selected",
+        "booked": "Booked",
+        "lunch": "Lunch",
+        "allBooked": "Sorry, for this day everything is booked",
+        "FetchingData": "Fetching data..."
+    },
+    "market": {
+        "title":"MarketDetail",
+        "tab1":"OVERVIEW",
+        "tab2":"DIRECTORY",
+        "tab3":"REVIEWS",
+        "tab4":"ABOUT",
+        "about":"About",
+        "joinedDate":"Joined Date",
+        "webSite":"Web Site",
+        "socialMedia":"Instagram",
+        "rating": "Subscribers",
+        "bookButton":"Book Now",
+        "rating1": "rating",
+        "rating2": "Years",
+        "rating3": "visitor"
+    },
+    "notifications": {
+        "notifications":"Notifications",
+        "upComing":"Up Coming",
+        "past":"Past"
+    },
+    "profil": {
+        "profil":"profil",
+        "cars":"Cars",
+        "recommend":"Recommend to friend",
+        "personal":"Personal info",
+        "name":"Full Name",
+        "dob":"Date of Birth",
+        "gender":"Gender",
+        "phone":"Phone",
+        "mail":"E-mail"  
+    },
+    "Setting": {
+        "settings":"Settings",
+        "account":"Account",
+        "changePassword":"Change password",
+        "contentsettings":"Content settings",
+        "Social":"Social",
+        "Language":"Language",
+        "Locasyon":"Locasyon",
+        "Privacysecurity":"Privacy and security",
+        "Notifications":"Notifications",
+        "newForYou":"New for you",
+        "accountactivity":"Account activity",
+        "opportunity":"Opportunity",  
+        "signOut":"SIGN OUT",
+        "Close":"Close"
+    },
+    "root": {
+        "Home":"Home",
+        "Search":"Search",
+        "Notifications":"Notifications",
+        "profil":"Profil"
+    },
+    "searc": {
+        "FindMarket":"Find Market",
+        "searchingArea":"searching area"
+    },
+    "booking": {
+        "appointment":"Appointment",
+        "appointmentButton":"Apponiment Now",
+        "appointmentTitle":"Appointment Title",
+        "notes":" Notes",
+        "add":" Add"
+    },
+    "marketCategories": {
+        "service":"service",
+        "care":"care",
+        "repairs":"Repairs",
+        "help":" Help",
+        "expertise":" Expertise",
+        "cleaning":"Cleaning"
+    }
+}
